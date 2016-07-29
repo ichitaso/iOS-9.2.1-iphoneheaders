@@ -1,0 +1,17 @@
+#import <HealthKitUI/__HKMedicalIDEditorMultilineStringCellAccessibility_super.h>
+#import <HealthKitUI/HKMedicalIDEditorMultilineStringCellAccessibility.h>
+#import <HealthKitUI/___HKMedicalIDMultilineStringCellAccessibility_super.h>
+#import <HealthKitUI/_HKMedicalIDMultilineStringCellAccessibility.h>
+#import <HealthKitUI/__HKMedicalIDViewControllerAccessibility_super.h>
+#import <HealthKitUI/HKMedicalIDViewControllerAccessibility.h>
+#import <HealthKitUI/__HKSwitchTableViewCellAccessibility_super.h>
+#import <HealthKitUI/HKSwitchTableViewCellAccessibility.h>
+#import <HealthKitUI/__HKMedicalIDEditorPickerCellAccessibility_super.h>
+#import <HealthKitUI/HKMedicalIDEditorPickerCellAccessibility.h>
+#import <HealthKitUI/AXHealthKitUIGlue.h>
+#import <HealthKitUI/__HKUITextFieldAccessibility_super.h>
+#import <HealthKitUI/HKUITextFieldAccessibility.h>
+#import <HealthKitUI/__HKGraphViewAccessibility_super.h>
+#import <HealthKitUI/HKGraphViewAccessibility.h>
+#import <HealthKitUI/__HKMedicalIDEditorNameAndPhotoCellAccessibility_super.h>
+#import <HealthKitUI/HKMedicalIDEditorNameAndPhotoCellAccessibility.h>
